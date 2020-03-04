@@ -1,3 +1,3 @@
 {
-  message: "hey girl",
+  message: @output_msg,
 }
